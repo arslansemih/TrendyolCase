@@ -1,1 +1,1 @@
-# TrendyolCase
+Requirement : Java 8
